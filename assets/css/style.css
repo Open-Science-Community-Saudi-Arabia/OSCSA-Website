@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -170,9 +170,9 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px 0 10px 30px;
+  padding: 0px 0 0px 30px;
   font-family: "Krub", sans-serif;
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 600;
   color: #2d405f;
   white-space: nowrap;
@@ -412,11 +412,11 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 5px;
   transition: 0.5s;
   color: #fff;
-  background: #3b4ef8;
+  background: #f49c44;
 }
 
 #hero .btn-get-started:hover {
-  background: #0a22f6;
+  background: #041c68;
 }
 
 #hero .hero-img {
@@ -490,7 +490,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: #466393;
+  background: #4b778d;
   background-size: cover;
   padding: 60px 0;
   position: relative;
