@@ -618,6 +618,17 @@ section {
   margin-bottom: 0;
 }
 
+.img-fluid-TW{
+  max-width: 110%;
+  height: auto;
+}
+
+.img-fluid-Benefit {
+    max-width: 110%;
+    height: auto;
+    padding-top: 60px;
+}
+
 /*--------------------------------------------------------------
 # Steps
 --------------------------------------------------------------*/
