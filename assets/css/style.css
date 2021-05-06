@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #3b4ef8;
+  color: #126e82;
   text-decoration: none;
 }
 
@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   padding: 0px 0 0px 30px;
   font-family: "Krub", sans-serif;
-  font-size: 17px;
+  font-size: 15px;
   font-weight: 600;
   color: #2d405f;
   white-space: nowrap;
